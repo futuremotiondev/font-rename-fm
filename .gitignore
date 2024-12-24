@@ -1,2 +1,4 @@
 *.code-workspace
 buildnotes.txt
+dist/
+poetry.lock
